@@ -4,7 +4,7 @@ This repository contains a [MonoGame](https://www.monogame.net/) example project
 His project also contains samples for all of the included libraries, but here you'll find a more basic project which is ready to use without any clutter, also there is additional assistance available in the wiki on **how to embed it into existing projects** and **how to create animated models** which are compatible.
 
 ## Getting Started
-Please head right to the [wiki](https://github.com/jmgraeffe/monogame-3d-animation-tutorial/wiki/Getting-Started). Thanks!
+Please head right to the [wiki](https://github.com/jmgraeffe/monogame-3d-animation-tutorial/wiki). Thanks!
 
 ## Credits
 The pre-compiled DLL files in `Aether.Extras/` are copied from [tainicom's Aether.Extras](https://github.com/tainicom/Aether.Extras) release folder. Also, the same sample animated model is used in the example project.
