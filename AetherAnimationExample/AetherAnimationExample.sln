@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AetherAnimationExample", "AetherAnimationExample.csproj", "{284957C9-85FE-47A9-8B7B-925B30D70BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284957C9-85FE-47A9-8B7B-925B30D70BFC}.Debug|x86.ActiveCfg = Debug|x86
+		{284957C9-85FE-47A9-8B7B-925B30D70BFC}.Debug|x86.Build.0 = Debug|x86
+		{284957C9-85FE-47A9-8B7B-925B30D70BFC}.Release|x86.ActiveCfg = Release|x86
+		{284957C9-85FE-47A9-8B7B-925B30D70BFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E56B923-6D8B-48D4-9F9C-1BA45319AD52}
+	EndGlobalSection
+EndGlobal
